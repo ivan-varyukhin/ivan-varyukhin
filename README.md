@@ -5,7 +5,7 @@ Skills: Python3, Django Web Framework, Django REST framework, SQLite3, PostgreSQ
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivan-varyukhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](sVVintus)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivan-varyukhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/sVVintus)  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-varyukhin&theme=github)
 
