@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ivan
 #### I am Python developer
 
-Skills: Python3, Django Web Framework, Django REST framework, SQLite3, PostgreSQL, MySQL, GIT, BeautifulSoup, gunicorn, nginx, Яндекс.Облако (Ubuntu 20.04), OOP, Docker, Docker-Compose
+Skills: Python3, Django Web Framework, Django REST framework, SQLite3, PostgreSQL, MySQL, GIT, BeautifulSoup, pytest, gunicorn, nginx, Яндекс.Облако (Ubuntu 20.04), OOP, Docker, Docker-Compose
 
 
 
