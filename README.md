@@ -1,3 +1,5 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ivan-varyukhin&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ivan-varyukhin&show_icons=true&locale=en&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-varyukhin&layout=compact&locale=en)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-varyukhin&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-varyukhin&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivan-varyukhin&theme=github&utcOffset=3)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan-varyukhin&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivan-varyukhin&theme=github)
